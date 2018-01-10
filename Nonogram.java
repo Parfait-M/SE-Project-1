@@ -2,7 +2,7 @@
 
 public class Nonogram {
 
-  // Parfeit
+  // Parfait
   static char[][] get_board() {
 
   }
