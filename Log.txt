@@ -6,3 +6,15 @@ Jan 9
 - Wrote print_board to work with a 5x5 board.
 - Wrote a unit test to ensure board in printing correctly throughout development.
 - incorporated the board coordinates so print out also.
+
+
+
+*John*
+
+
+
+*Parfait*
+
+
+
+*Zachary*
